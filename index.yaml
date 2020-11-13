@@ -3,7 +3,7 @@ entries:
   core-master:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-11-13T13:09:34.16183+01:00"
+    created: "2020-11-13T13:15:41.203788+01:00"
     dependencies:
     - condition: nginx-ingress.Enabled
       name: nginx-ingress
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://github.com/bmunozm/helm-charts/core-master-0.1.0.tgz
     version: 0.1.0
-generated: "2020-11-13T13:09:34.138518+01:00"
+generated: "2020-11-13T13:15:41.191486+01:00"
