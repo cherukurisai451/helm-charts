@@ -1,6 +1,6 @@
 # cloudbees-core
 
-![Version: 2.277.2.3](https://img.shields.io/badge/Version-2.277.2.3-informational?style=flat-square) ![AppVersion: 2.249.3.2](https://img.shields.io/badge/AppVersion-2.249.3.2-informational?style=flat-square)
+![Version: 2.277.2.3](https://img.shields.io/badge/Version-2.277.2.3-informational?style=flat-square)
 
 [CloudBees CI](https://www.cloudbees.com/products/continuous-integration) is the continuous integration platform architected for the enterprise. It provides:
 
