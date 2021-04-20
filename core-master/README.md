@@ -10,7 +10,7 @@ This repository contains the sources that make up the [Cloudbees-CI Installation
 * Easy management
 * Enterprise grade security
 
-## TL;DR;
+## 
 
 ```console
 $ helm repo add cloudbees https://charts.cloudbees.com/public/cloudbees
