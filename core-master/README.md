@@ -1,8 +1,6 @@
 # cloudbees-core
 
-This repository contains the sources that make up the [Cloudbees-CI Installation Guide](https://docs.cloudbees.com/docs/cloudbees-ci/latest/kubernetes-install-guide/installing-kubernetes-using-helm#nginx-install).
-
-![Version: 2.277.2.3](https://img.shields.io/badge/Version-2.277.2.3-informational?style=flat-square)
+This repository contains the sources that make up the [Cloudbees-CI Installation Guide](https://docs.cloudbees.com/docs/cloudbees-ci/latest/kubernetes-install-guide/installing-kubernetes-using-helm#nginx-install). ![Version: 2.277.2.3](https://img.shields.io/badge/Version-2.277.2.3-informational?style=flat-square)
 
 [CloudBees CI](https://www.cloudbees.com/products/continuous-integration) is the continuous integration platform architected for the enterprise. It provides:
 
